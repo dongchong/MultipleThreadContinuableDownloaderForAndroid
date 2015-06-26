@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">掩耳下载器</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="success">恭喜你下载成功</string>
+    <string name="error">下载失败了</string>
+    <string name="sdcardererror">SD卡不存在或者不能够进行读写操作</string>
+</resources>

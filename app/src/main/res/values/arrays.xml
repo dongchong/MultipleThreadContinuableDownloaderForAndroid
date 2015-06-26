@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type_array">
+        <item>音乐文件</item>
+        <item>视频文件</item>
+        <item>图片文件</item>
+    </string-array>
+</resources>
